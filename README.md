@@ -4,7 +4,9 @@ SPA React-application.
 The full list of articles intro information is requested from API and loaded at the beginning. 
 Paginator splits the list for portions. On mobile it's a 3 row grid without pagination.
 Full article detail and article comments are requested by clicking article card. The Article page is loaded with list of comments. User can send comment via the form at the bottom of the Article detail page.
-Dummy static API are used just for illustrative purposes.
+Dummy static API are used just for illustrative purpose.
+Images: https://placeimg.com/
+API: https://jsonbin.io/
 
 ## Demo
 
